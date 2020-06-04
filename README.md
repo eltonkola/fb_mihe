@@ -1,2 +1,3 @@
-# fb_mihe
-fb messenger snake game
+# Facebook Messenger Bot
+
+This example project creates a Facebook Messenger bot, completely
