@@ -1,0 +1,27 @@
+{
+  "name": "messenger-bot",
+  "version": "1.0.0",
+  "description": "Messenger Platform QuickStart Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "messenger",
+    "bot",
+    "quickstart"
+  ],
+  "author": "Elton Kola <eltonkola@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://eltonkola.dev",
+  "dependencies": {
+    "request": "^2.88.2",
+    "express": "*",
+    "body-parser": "*",
+    "node-fetch": "^2.6.0",
+    "canvas": "^2.6.1"
+  },
+  "engines": {
+    "node": "~4.1.2"
+  }
+}
